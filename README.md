@@ -21,16 +21,16 @@
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Marvin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4ndr01&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Marvin" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndr01&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
 
 ---
 
 ### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_NOM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Marvin HOGUET)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvin.hoguet@gmail.com)
 
 </div>
